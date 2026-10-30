@@ -1,2 +1,0 @@
-method,correlation,ci_lower,ci_upper,p_value,states,minimum_testing_coverage_pct
-Spearman,0.6009951516851183,NA,NA,0.0011666724525675025,26,40

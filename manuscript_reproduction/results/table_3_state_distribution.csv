@@ -1,4 +1,0 @@
-age_group,jurisdictions,mean_pct,median_pct,iqr_lower_pct,iqr_upper_pct,minimum_pct,minimum_jurisdiction,maximum_pct,maximum_jurisdiction
-18-25,51,8.850980392156863,8.4,7.15,10.200000000000001,3.8,West Virginia,22.6,Vermont
-26-34,51,7.707843137254902,7.199999999999999,6.25,9,3.5999999999999996,South Carolina,14.299999999999999,Colorado
-35+,51,3.503921568627451,3.3000000000000003,2.75,4.1000000000000005,1.2,Utah,8.4,Vermont
